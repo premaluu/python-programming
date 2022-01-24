@@ -45,3 +45,5 @@ for number in numbers:
         uniques.append(number)
 print(uniques)
 print(uniques)
+print(uniques)
+print(uniques)
