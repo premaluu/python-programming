@@ -1,7 +1,7 @@
 '''
     name : practice.py
     Created by : Premal Upadhyay
-    Date : 23-01-2022
+    Date : 24-01-2022
 '''
 
 dict = {
