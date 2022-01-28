@@ -1,7 +1,7 @@
 '''
     name : functions.py
     Created by : Premal Upadhyay
-    Date : 24-01-2022
+    Date : 28-01-2022
 '''
 
 #Function that greet the user
