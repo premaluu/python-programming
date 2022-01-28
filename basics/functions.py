@@ -4,12 +4,10 @@
     Date : 28-01-2022
 '''
 
-#Function that greet the user
 def greet_user(first_name, last_name):
     print(f'Hi {first_name} {last_name}!')
     print('Welcome aboard')
 
-#Function that return square of number
 def square(number):
     return number * number
 
