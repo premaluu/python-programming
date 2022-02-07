@@ -39,3 +39,24 @@ class Person:
 
 person = Person("Premal")
 person.talk()
+
+
+class Basics:
+    def __init__(self):
+        print('Constructor is called.')
+
+    def someMethod(self):
+        print('In method body.')
+
+    def __del__(self):
+        print('In destructor.')
+
+
+# Creating constructor
+obj = Basics()
+
+# Calling method of class
+obj.someMethod()
+
+# Calling destructor
+del obj
