@@ -13,6 +13,8 @@ def add(a, b):
     :param b: second operand for addition
     :return: returns addition of a and b
     """
+    #Prints doc comments
+    print(add.__doc__)
     return a + b
 
 
